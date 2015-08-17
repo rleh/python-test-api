@@ -1,0 +1,12 @@
+# Falcon web framework
+cython
+falcon
+
+# JSON
+simplejson
+
+# Code linting
+pylint
+
+# Development Web Server
+wsgiref
