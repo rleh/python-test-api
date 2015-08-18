@@ -3,7 +3,7 @@ import json
 
 class Info:
     @staticmethod
-    def on_get(req, resp):
+    def on_get(self, req, resp):
         """Handles GET requests"""
         quote = {
             'author': 'Raphael Lehmann',
